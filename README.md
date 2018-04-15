@@ -1,4 +1,4 @@
-
+# HELP
 
 #Vision: To help scale on-chain inclusion by creating a decentralized application containing full-time and contract placement positions in the crypto economy.
 
