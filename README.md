@@ -7,6 +7,7 @@ Using the Embark platform, decentraRealized will facilitate the posting of full-
 
 Companies looking to post jobs on the decentraRealized dApp will upload the desired file and send a transaction. They will receive a receipt for the creation of the hash. 
 
-a gas estimater is needed to faciliate the estimate of the gas it will cost to store file in IPFS as a hash for desired time period. 
-Any existing job board can "subscribe" to decentraRealized to pull from all hashes to receive an output of all files that are currently being stored in IPFS
+Any existing job board can "subscribe" to decentraRealized to pull from all hashes to receive an output of all files that are currently being stored in IPFS.
+
+ Using a gas estimator to faciliate the estimate of the gas it will cost to store file in IPFS as a hash for desired unit of time. 
 
