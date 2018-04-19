@@ -1,5 +1,5 @@
 # DecentraRealized
-# Scale on-chain inclusion and diversity
+Scale on-chain Inclusion & Diversity
 
 Decentralized application running on the Ethereum blockchain. 
 
