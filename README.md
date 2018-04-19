@@ -1,13 +1,13 @@
+# DecentraRealized
+# Scale on-chain inclusion and diversity
 
+# Decentralized application running on the Ethereum blockchain. 
 
-# Vision: To help scale on-chain inclusion by creating a decentralized application containing full-time and contract placement positions in the crypto economy.
+# Using the Embark platform, decentraRealized will facilitate the posting of full-time and contract placement of open positions within the cryptoeconomy as hashes on the Ethereum blockchain. The files will be stored in IPFS.
 
-# The idea is to create a protocol where those placing job advertisements will interact with the Ethereum blockchain by paying for gas to store their position in IPFS which will in turn be published as a hash on the main chain.
+# Companies looking to post jobs on the decentraRealized dApp will upload the desired file and send a transaction. They will receive a receipt for the creation of the hash. 
 
-# Existing job boards can then subscribe to this, pulling from the hashes stored on the main chain to display the files of job listing that are currently being stored in IPFS.
+# a gas estimater is needed to faciliate the estimate of the gas it will cost to store file in IPFS as a hash for desired time period. 
 
-# forked from:
+# Any existing job board can "subscribe" to decentraRealized to pull from all hashes to receive an output of all files that are currently being stored in IPFS
 
-# Simple Ethereum + InterPlanetary File System (IPFS)+ React.js DApp
-
-# A simple DApp to upload a document to IPFS and then store the IPFS hash on the Ethereum blockchain. Once the IPFS hash number is sent to the Ethereum blockchain, the user will receive a transaction receipt. We will use Create-React-App framework to make a front-end. This Dapp works with any user that has MetaMask installed in their browser.
